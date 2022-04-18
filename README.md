@@ -12,7 +12,7 @@ as described on the Nova Scotia Genealogy Facebook page. The HTML result is sear
 
 ## Output
 
-The output file is available here in the output directory.
+The output file is available here in the "result" directory.
 
 ## Limitations
 
