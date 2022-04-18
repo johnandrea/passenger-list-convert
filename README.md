@@ -10,6 +10,10 @@ as described on the Nova Scotia Genealogy Facebook page.
 - run program like this:    convert.py  <passenger-list.tsv  >passenger-list.html
 - click on the html file
 
+## Output
+
+The output file is available here in the output directory.
+
 ## Limitations
 
 - Requires Python 3.6+
