@@ -2,7 +2,7 @@
 Convert passenger list to HTML page.
 
 The Passenger List files for 1749-52 to Halifax was collected into a single document by @Cartogenealogy
-as described on the Nova Scotia Genealogy Facebook page. 
+as described on the Nova Scotia Genealogy Facebook page. The HTML result is searchable and filterable by way of JQuery Datatables.
 
 ## Usage
 
