@@ -1,4 +1,4 @@
-# passinger-list-convert
+# passenger-list-convert
 Convert passenger list to HTML page.
 
 The Passenger List files for 1749-52 to Halifax was collected into a single document by @Cartogenealogy
