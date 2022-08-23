@@ -1,7 +1,7 @@
 import io
 import sys
 
-''' Convert tsv file of parrenger list provided by @Cartogenealogy
+''' Convert tsv file of passenger list provided by @Cartogenealogy
 into a html file using jquery datatables.
 
 Input from stdin,
